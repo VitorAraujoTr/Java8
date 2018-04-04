@@ -1,4 +1,4 @@
-package com.schoolofnet.java8.FunctionalAnnotations;
+package com.schoolofnet.java8.functionalAnnotations;
 
 import java.util.Arrays;
 import java.util.List;

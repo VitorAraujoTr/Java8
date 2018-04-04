@@ -1,4 +1,4 @@
-package com.schoolofnet.java8.FunctionalAnnotations;
+package com.schoolofnet.java8.functionalAnnotations;
 
 //interfaces com mais de um método abstrato resultará em um erro
 
